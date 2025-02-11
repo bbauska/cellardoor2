@@ -1,1 +1,71 @@
+## social icons with color and background information
 
+<ul>
+  <li>facebook:</li>
+  <ul>
+    <li>#3b5998</li>
+    <li>#8b9dc3</li>
+  </ul>
+  <li>background: #f7f7f7</li>
+</ul>
+<br>
+<ul>
+  <li>instagram:</li>
+  <ul>
+    <li>#c32443</li>
+    <li>#4068d7</li>
+    <li>#fbad50</li>
+    <li>#fccc63</li>
+  </ul>
+  <li>background: none</li>
+</ul>
+<br>
+<ul>
+  <li>twitter:</li>
+  <ul>
+    <li>#0084b4</li>
+    <li>#00aced</li>
+  </ul>
+<li>background:</li>
+  <ul>
+    <li>#c0deed</li>
+    <li>#1dcaff</li>
+  </ul>
+</ul>
+<br>
+<ul>
+  <li>linkedin:</li>
+  <ul>
+    <li>#007bb6</li>
+  </ul>
+<br>
+  <li>youtube:</li>
+  <ul>
+    <li>#ff0000</li>
+  </ul>
+<br>
+  <li>google:</li>
+  <ul>
+    <li>#4285F4</li>
+  </ul>
+<br>
+  <li>google+:</li>
+  <ul>
+    <li>#DB4437</li>
+  </ul>
+<br>
+  <li>snapchat:</li>
+  <ul>
+    <li>#FFFC00</li>
+  </ul>
+<br>
+  <li>skype:</li>
+  <ul>
+    <li>#00AFF0</li>
+  </ul>
+<br>
+  <li>yahoo:</li>
+  <ul>
+    <li>#430297</li>
+  </ul>
+</ul>
